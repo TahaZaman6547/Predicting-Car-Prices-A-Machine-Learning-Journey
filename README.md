@@ -4,9 +4,9 @@ Sure! Here's a **short and concise report** summarizing **Section 4: Reporting &
 
 ---
 
-Reporting & Insights – Summary Report**
+Reporting & Insights – Summary Report
 
-Summary of Findings**
+Summary of Findings
 
 #### **Key Insights from EDA on Car Prices**
 - **Technical Specs Drive Price**: Features like **engine-size**, **horsepower**, and **curb-weight** are positively correlated with price, highlighting performance and luxury appeal.
